@@ -1,1 +1,1 @@
-FROM eclipse-temurin:11.0.14.1_1-jre-alpine as java11
+FROM eclipse-temurin:18.0.2.1_1-jre-alpine as java11
